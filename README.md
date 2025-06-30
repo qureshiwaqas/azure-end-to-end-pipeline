@@ -40,4 +40,5 @@ Using Azure Synapse Analytics, I created SQL views over gold-layer data and expo
 
 ## Lifecycle Policies
 By making use of lifecycle policies, I leverage lifecycle policies to cut storage costs by tiering files to cool storage after 7 days of no modifications and deleting them after 14 days of inactivity.
+
 ![Lifecycle Policies](screenshots/lifecycle-policies.png)
